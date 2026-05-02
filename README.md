@@ -1,2 +1,9 @@
-# My--first-project-
-This is my first project on GitHub
+#أول برنامج ليا 
+This is my first project on GitHub ✨
+أهلاً بالعالم! أنا شهد ودي أول مرة أستخدم GitHub 
+بتعلم برمجة وحابة أوثق رحلتي هنا 💻❤️
+
+## ليه عملت الريبو ده؟
+- عشان أتعلم GitHub 
+- عشان أحفظ مشاريعي 
+- عشان أبقى مبرمجة جامدة 💪
